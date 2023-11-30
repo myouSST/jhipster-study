@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.spectra.user.\
+    config.TestContainersSpringContextCustomizerFactory,com.spectra.user.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.spectra.user.config.\
+    PulsarTestContainersSpringContextCustomizerFactory
